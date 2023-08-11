@@ -20,7 +20,7 @@ In this tutorial, you will learn how to:
 
 ## Access the Full Article
 
-To access the full article, follow this link: [Implementing Google Authentication with Firebase and ReactJS](link_to_your_article)
+To access the full article, follow this link: [Implementing Google Authentication with Firebase and ReactJS](https://dev.to/canhamzacode/how-to-implement-google-authentication-with-firebase-and-reactjs-2o36)
 
 ## Usage
 
